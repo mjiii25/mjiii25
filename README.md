@@ -4,6 +4,9 @@
 - 😄 I'm aiming to becoma a data analyst in financial field.
 - 🌱 I’m currently studying Algorithm, practicing with codeup.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mjiii25=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **mjiii25/mjiii25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
