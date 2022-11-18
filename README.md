@@ -1,12 +1,16 @@
 ### Hi there 👋
 
+🔎 I majored in Applied Statistics, Chung-Ang university.
+😄 I'm aiming to becoma a data analyst in financial field.
+🌱 I’m currently learning Algorithm, practicing with codeup.
+
 <!--
 **mjiii25/mjiii25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
- 🌱 I’m currently learning Algorithm, practicing with codeup
+- 🌱 I’m currently learning Algorithm, practicing with codeup
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
