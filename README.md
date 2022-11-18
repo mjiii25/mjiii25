@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔎 majored in Applied Statistics, Chung-Ang university.
+- 🔎 majored in Applied Statistics, Chung-Ang university
 - 😄 aiming to becoma a Data Analyst in Financial field
 - 🌱 currently studying Algorithm with CODEUP
 
