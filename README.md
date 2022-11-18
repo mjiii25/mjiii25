@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔎 I majored in Applied Statistics, Chung-Ang university.
-😄 I'm aiming to becoma a data analyst in financial field.
-🌱 I’m currently learning Algorithm, practicing with codeup.
+- 🔎 I majored in Applied Statistics, Chung-Ang university.
+- 😄 I'm aiming to becoma a data analyst in financial field.
+- 🌱 I’m currently studying Algorithm, practicing with codeup.
 
 <!--
 **mjiii25/mjiii25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
