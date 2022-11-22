@@ -2,7 +2,7 @@
 
 - 🔎 majored in Applied Statistics, Chung-Ang university
 - 😄 aiming to become a Data Analyst in Financial field
-- 🌱 currently studying Algorithm with CODEUP
+- 🌱 currently studying Algorithm with BOJ
 
 
 <img src="https://img.shields.io/badge/Python3-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
